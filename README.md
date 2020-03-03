@@ -8,7 +8,7 @@ Attack-Caused Windows OS System Calls Traces Dataset
 
  - Čeponis, Dainius, and Nikolaj Goranin. "Evaluation of Deep Learning Methods Efficiency for Malicious and Benign System Calls Classification on the AWSCTD." Security and Communication Networks 2019 (2019).
  
- # Example how to run training/testing:
+ # Example of how to run training/testing:
  ```
  python AWSCTD.py //full//path//to//MalwarePlusClean//010_2.csv AWSCTD-CNN-S
  ```
