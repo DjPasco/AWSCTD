@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TraceToXML", "TraceToXML\TraceToXML.vcxproj", "{A6AA8592-96DE-4912-A2E9-D2023FBD00D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		UnicodeDebug|x86 = UnicodeDebug|x86
+		UnicodeRelease|x86 = UnicodeRelease|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AA8592-96DE-4912-A2E9-D2023FBD00D6}.UnicodeDebug|x86.ActiveCfg = UnicodeDebug|Win32
+		{A6AA8592-96DE-4912-A2E9-D2023FBD00D6}.UnicodeDebug|x86.Build.0 = UnicodeDebug|Win32
+		{A6AA8592-96DE-4912-A2E9-D2023FBD00D6}.UnicodeRelease|x86.ActiveCfg = UnicodeRelease|Win32
+		{A6AA8592-96DE-4912-A2E9-D2023FBD00D6}.UnicodeRelease|x86.Build.0 = UnicodeRelease|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001B967C-A0B7-4555-A18B-45B57A39EDE1}
+	EndGlobalSection
+EndGlobal
