@@ -8,6 +8,7 @@ Attack-Caused Windows OS System Calls Traces Dataset
 
  - Čeponis, Dainius, and Nikolaj Goranin. "Evaluation of Deep Learning Methods Efficiency for Malicious and Benign System Calls Classification on the AWSCTD." Security and Communication Networks 2019 (2019).
  - Čeponis, Dainius, and Nikolaj Goranin. "Investigation of Dual-Flow Deep Learning Models LSTM-FCN and GRU-FCN Efficiency against Single-Flow CNN Models for the Host-Based Intrusion and Malware Detection Task on Univariate Times Series Data." Applied Sciences 10.7 (2020): 2373.
+ - Vyšniūnas, Tolvinas, et al. "Risk-Based System-Call Sequence Grouping Method for Malware Intrusion Detection." Electronics 13.1 (2024): 206.
  
  # Example of how to run training/testing:
  ```
